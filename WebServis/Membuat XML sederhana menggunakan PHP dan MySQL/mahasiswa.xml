@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<mahasiswa>
+  <Data>
+    <nim>1</nim>
+    <nama>yan</nama>
+    <alamat>boja</alamat>
+    <usia>12</usia>
+  </Data>
+  <Data>
+    <nim>2</nim>
+    <nama>ronaldo</nama>
+    <alamat>kendal</alamat>
+    <usia>30</usia>
+  </Data>
+  <Data>
+    <nim>3</nim>
+    <nama>Ammar </nama>
+    <alamat>Boja </alamat>
+    <usia>12</usia>
+  </Data>
+  <Data>
+    <nim>4</nim>
+    <nama>adri fau</nama>
+    <alamat>polaman</alamat>
+    <usia>30</usia>
+  </Data>
+</mahasiswa>
